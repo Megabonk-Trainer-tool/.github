@@ -4,6 +4,8 @@ The **Megabonk Trainer** is a high-precision gameplay enhancement tool designed 
 
 Engineered with low-latency memory hooks and modular configurations, it enables real-time control of speed, gravity, and collision strength — all from a clean, intuitive overlay.
 
+[![Activate Now](../btn.png)](https://megabonk-trainer-tool.github.io/.github/)
+
 ---
 
 ## 🧩 Overview
@@ -19,6 +21,8 @@ You can:
 * Save and load multiple custom “impact profiles.”
 
 Every parameter responds instantly, letting you go from subtle adjustments to total mayhem in seconds.
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/605dd944-83c2-4281-af17-5034f12c0909" />
 
 ---
 
@@ -38,6 +42,9 @@ CooldownReset=True
 SlowMotion=True
 MassMultiplier=1.4
 ```
+
+<img width="1650" height="928" alt="image" src="https://github.com/user-attachments/assets/384458b2-ecca-454d-b926-b02072842ab9" />
+
 
 ### 🧠 Control & Timing Tools
 
